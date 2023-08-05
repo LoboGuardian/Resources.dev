@@ -15,8 +15,12 @@ This code repository is a series of resources and web that I will find, organizi
 
 - https://developer.android.com/ | Android
 
+- VIM
+- https://victorhckinthefreeworld.com/2020/05/13/mostrar-los-numeros-de-linea-en-el-editor-vim/
+
 - .NET
 - https://learn.microsoft.com/en-us/troubleshoot/developer/dotnet/welcome-dotnet-landing
+- https://en.wikibooks.org/wiki/Visual_Basic_.NET
 
 - Lean management
 - https://lean-management.site/
@@ -44,4 +48,8 @@ This code repository is a series of resources and web that I will find, organizi
 
 ## Idea a futuro colgarlo en MkDocs
 
-[View the IDEA file](https://github.com/loboGuardian/Resources.dev/blob/master/IDEA.md)
+[View the IDEA file](https://github.com/loboGuardian/Resources.dev/blob/main/IDEA.md)
+
+## Dictionary
+
+[View the DICTIONARY file](https://github.com/loboGuardian/Resources.dev/blob/main/DICTIONARY.md)
