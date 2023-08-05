@@ -35,6 +35,9 @@ This code repository is a series of resources and web that I will find, organizi
 - Cloud Computing
 - https://www.w3schools.in/cloud-computing/tutorials/
 
+- Neural Network
+- https://dkriesel.com/en/science/neural_networks
+
 - Python
 - https://www.w3schools.in/python/tutorials/
 
