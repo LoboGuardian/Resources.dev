@@ -44,4 +44,4 @@ This code repository is a series of resources and web that I will find, organizi
 
 ## Idea a futuro colgarlo en MkDocs
 
-![IDEA.md]Idea(/IDEA.md)
+[View the IDEA file](https://github.com/loboGuardian/Resources.dev/blob/master/IDEA.md)
