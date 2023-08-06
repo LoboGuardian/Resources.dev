@@ -17,6 +17,7 @@ This code repository is a series of resources and web that I will find, organizi
 
 - VIM
 - https://victorhckinthefreeworld.com/2020/05/13/mostrar-los-numeros-de-linea-en-el-editor-vim/
+- https://www.youtube.com/watch?v=13gNtgqzzmM
 
 - .NET
 - https://learn.microsoft.com/en-us/troubleshoot/developer/dotnet/welcome-dotnet-landing
@@ -35,6 +36,9 @@ This code repository is a series of resources and web that I will find, organizi
 - Cloud Computing
 - https://www.w3schools.in/cloud-computing/tutorials/
 
+- AWK | Linux
+- https://www.youtube.com/watch?v=9YOZmI-zWok
+
 - Neural Network
 - https://dkriesel.com/en/science/neural_networks
 
@@ -44,6 +48,9 @@ This code repository is a series of resources and web that I will find, organizi
 - Vue.js
 - https://vuejs.org/guide/quick-start.html
 - https://vuejs.org/tutorial/#step-3
+
+- Laravel
+- https://styde.net/laravel-5/
 
 - Symfony
 - https://symfony.com/
