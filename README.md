@@ -131,3 +131,16 @@ https://www.creativosonline.org/31-tarjetas-gratuitas-html-css-blogs-e-commerce-
 https://dev.to/envoy_/150-badges-for-github-pnk
 https://bookdown.org/yihui/bookdown/get-started.html
 https://developer.mozilla.org/en-US/docs/Learn/Tools_and_testing/Client-side_JavaScript_frameworks/Vue_getting_started
+
+https://codepen.io/choogoor/pen/RwBKZey
+https://codepen.io/t_afif/pen/PoBQRmj
+https://codepen.io/aaroniker/pen/yLEPJXj
+https://codepen.io/jh3y/pen/dyKXmpB
+https://codepen.io/wikyware-net/pen/dyKPRxQ
+
+https://www.turing.com/kb/guide-to-full-stack-development-in-python
+https://webhostingsecretrevealed.net/es/blog/web-design/from-sketch-to-code-how-to-use-figma-to-develop-your-website/
+https://3ymedia.school/como-preparar-figma-desarrollo/
+https://themes.materializecss.com/pages/demo#sacred
+https://materialize-shopify-themes.myshopify.com/collections/all-products
+https://materialize-shopify-themes.myshopify.com/collections/all-products#sacred-geometry
