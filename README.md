@@ -70,6 +70,19 @@ This code repository is a series of resources and web that I will find, organizi
 
 - Full Stack Open
 - https://fullstackopen.com/es/part0/
+- https://www.fullstackpython.com/
+
+- IA
+- https://www.naturalreaders.com/online/
+
+- One UI
+- https://oneuiweb.dev/#/
+- https://github.com/SamsungInternet/OneUI-Web
+- https://developer.samsung.com/one-ui
+- https://developer.samsung.com/one-ui/index.html
+
+- The Algorithms
+- https://the-algorithms.com/
 
 ## Idea a futuro colgarlo en MkDocs
 
@@ -144,3 +157,4 @@ https://3ymedia.school/como-preparar-figma-desarrollo/
 https://themes.materializecss.com/pages/demo#sacred
 https://materialize-shopify-themes.myshopify.com/collections/all-products
 https://materialize-shopify-themes.myshopify.com/collections/all-products#sacred-geometry
+https://uicookies.com/materialize-templates/
